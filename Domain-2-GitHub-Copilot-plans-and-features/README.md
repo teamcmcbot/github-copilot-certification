@@ -52,8 +52,6 @@ This domain is the largest portion of the exam and covers the different GitHub C
 
 ## 🎯 Identify the Main Features of GitHub Copilot Business
 
-## 🎯 Identify the Main Features of GitHub Copilot Business
-
 - **Demonstrate how to exclude specific files from GitHub Copilot**:  
     - Use `.copilotignore` files to specify files or directories to exclude from Copilot suggestions.  
     - Configure exclusion rules to ensure sensitive or irrelevant files are not used for completions.  
@@ -80,7 +78,6 @@ This domain is the largest portion of the exam and covers the different GitHub C
 
 ---
 
-## 🎯 Identify the Main Features with GitHub Copilot Enterprise
 
 ## 🎯 Identify the Main Features with GitHub Copilot Enterprise
 
@@ -144,7 +141,6 @@ This domain is the largest portion of the exam and covers the different GitHub C
 
 ---
 
-## 🎯 Identify the Main Features with GitHub Copilot Chat
 ## 🎯 Identify the Main Features with GitHub Copilot Chat
 
 ### Identify the Use Cases Where GitHub Copilot Chat is Most Effective
